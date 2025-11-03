@@ -18,7 +18,7 @@ This will be a constant philosophy as we learn about and design systems doing cr
 ### Section 1.1: The Space Environment & Its Constraints
 
 **Readings:**
-- NASA Paper: "Radiation-Induced Effects in Commercial Microprocessors"
+- "Radiation Effects in Microelectronics"
 - Concepts: Single-Event Upsets (SEU), Latch-up, Total Ionizing Dose (TID), Fault Containment Regions (FCRs).
 - Space-Grade Hardware: Learn about RAD750 processors (PowerPC) and why they are used (vs. the ARM you'll use for learning).
 
